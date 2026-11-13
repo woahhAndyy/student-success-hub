@@ -1,0 +1,26 @@
+STUDENT SUCCESS HUB — FINAL SUBMISSION CHECKLIST
+Team: Anderson Peterkin and Azaevion Neal
+
+FILES INCLUDED
+[ ] Student_Success_Hub_Project_Report.pdf
+[ ] Student_Success_Hub_Presentation.pptx
+[ ] Complete source code and templates
+[ ] README with local setup, tests, Docker and deployment steps
+[ ] User stories and scenarios
+[ ] Architecture and test plan documents
+[ ] Dockerfile and Render Blueprint
+
+BEFORE SUBMITTING
+[ ] Create the real GitHub repository and paste its URL into report/slides.
+[ ] Both teammates make genuine commits and review work.
+[ ] Complete team contribution section with truthful evidence.
+[ ] Run tests locally and keep actual test output.
+[ ] Build and run Docker image.
+[ ] Deploy using Render and verify the public URL.
+[ ] Confirm data persists across app restarts/redeploys.
+[ ] Capture real screenshots of app, tests, Docker, GitHub and deployment.
+[ ] Replace all bracketed placeholders in report and slides.
+[ ] Export final report and presentation after edits.
+
+IMPORTANT
+The application source, tests, report draft and slides are prepared. A GitHub repository, real team commits, cloud deployment, screenshots and live public URL cannot be truthfully created without your accounts and actions. Follow README.md and the step-by-step guide. Do not submit unverified placeholders as completed work.
