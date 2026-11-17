@@ -3,7 +3,7 @@
 **Team:** Anderson Peterkin and Azaevion Neal  
 **Course:** Software Engineering  
 **Project type:** Cloud-based student productivity web application
-
+**GitHub repository url:** https://student-success-hub-9sqm.onrender.com 
 ## Overview
 Student Success Hub gives college students one place to organize assignments, due dates, course labels, priority, and academic goals. A personal dashboard summarizes total assignments, completed assignments, and upcoming work.
 
@@ -77,11 +77,20 @@ Fill this table with what actually happened. Do not claim contributions or commi
 
 | Team member | Actual work completed | Evidence (commit, file, screenshot) |
 |---|---|---|
-| Anderson Peterkin | [Complete after work is divided] | [Add evidence] |
-| Azaevion Neal | [Complete after work is divided] | [Add evidence] |
+| Anderson Peterkin | Created and organized the GitHub repository; configured the public Render deployment and application URL; created the PowerPoint presentation and README documentation; prepared project documentation; performed live browser testing, including registration, login, logout, task creation, and task persistence checks. | GitHub repository and commit history; live Render application; project report; PowerPoint presentation; README; browser testing screenshots.<img width="1366" height="768" alt="Screenshot 2026-11-17 10 16 13 AM" src="https://github.com/user-attachments/assets/c5e39dca-f35f-4298-b5ae-9bbe1c5a14bb" />
+<img width="1366" height="768" alt="Screenshot 2026-11-17 10 11 37 AM" src="https://github.com/user-attachments/assets/b1397f04-5e1b-463f-b661-cdc127479916" />
+<img width="1366" height="768" alt="Screenshot 2026-11-17 10 03 03 AM" src="https://github.com/user-attachments/assets/9269cef1-295a-4ee8-9b12-465fe9fbb062" />
+<img width="1366" height="768" alt="Screenshot 2026-11-17 10 00 01 AM" src="https://github.com/user-attachments/assets/bfcbe68e-e4c7-4d25-84c4-16b9813921a5" />
+<img width="1366" height="768" alt="Student_Success_Hub_Login_Test" src="https://github.com/user-attachments/assets/46424244-b9e8-489c-9b97-9fa4870f99c9" />
+<img width="1366" height="768" alt="Student_Success_Hub_Task_Test" src="https://github.com/user-attachments/assets/f90179f7-6994-47e9-ad80-3b025d499fa3" /><img width="1366" height="768" alt="Screenshot 2026-11-17 10 22 01 AM" src="https://github.com/user-attachments/assets/c93cac29-4b70-421b-bd50-312a9b23fad2" />
+
+
+| Azaevion Neal | Helped with testing and debugging the files, as well as project distribution and making sure files weree in the right place for successful output test. | <img width="1366" height="768" alt="Screenshot 2026-11-17 10 20 11 AM" src="https://github.com/user-attachments/assets/9cfcb5ed-fa4d-45df-8dbb-5f748d085552" />
+<img width="1366" height="768" alt="Screenshot 2026-11-17 10 19 39 AM" src="https://github.com/user-attachments/assets/3f638c01-62b2-43a9-bad6-a442e8344092" />
+<img width="1366" height="768" alt="Screenshot 2026-11-17 10 17 51 AM" src="https://github.com/user-attachments/assets/2c2f955a-e509-4268-ba95-1256c63083ee" />
+|
 
 ## Submission checklist
-- [ ] Replace any placeholders in the report and slides.
 - [ ] Create the GitHub repository and add its real URL.
 - [ ] Both teammates contribute and review commits.
 - [ ] Run the test command and save the actual result.
